@@ -1,0 +1,1 @@
+This is a prototype of the mac os on web to make people to experience it and understand some of the features. its just a prototype donot expect more
